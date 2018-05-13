@@ -7,5 +7,5 @@ function destructivelyAppendKitten(name){
 }
 
 function destructivelyPrependKitten(name){
-  return [name, ...array];
+  return [name, ...kittens];
 }
